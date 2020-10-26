@@ -12,6 +12,7 @@ class Node:
         self.height = height
         self.adj = set()
 
+    # 디버깅 용
     # def __repr__(self):
     #     return f'높이 {self.height} 너비 {self.size}'
 
