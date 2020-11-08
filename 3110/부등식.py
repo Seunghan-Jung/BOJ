@@ -1,4 +1,5 @@
 import sys
+<<<<<<< HEAD
 
 sys.stdin = open('input.txt')
 
